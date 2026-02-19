@@ -23,7 +23,7 @@ This project demonstrates asynchronous data fetching, data visualization using T
 ### Data Visualization (`app.js`)
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/datg611_js_ass1.git
+    git clone https://github.com/rileydrizzy/datg611_js_ass1.git
     cd datg611_js_ass1
     ```
 2.  Open the `index.html` file in your browser.
