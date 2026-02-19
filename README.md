@@ -1,4 +1,4 @@
-# DATG611 JavaScript Assignment 1
+# DAT611 JavaScript Assignment 1
 
 **Live Deployment:** [View on Vercel](https://your-project-name.vercel.app)
 
@@ -9,7 +9,7 @@ This project demonstrates asynchronous data fetching, data visualization using T
 *   **`app.js`**: The main application logic for the web interface.
     *   Fetches user data from JSONPlaceholder.
     *   Parses the data to extract user locations and company details.
-    *   Uses `tfjs-vis` to render:
+    *   Uses `TensorFlow.js Visor` to render:
         *   A **Line Chart** displaying Usernames vs. Latitude coordinates.
         *   A **Bar Chart** displaying Company Names vs. Catchphrase lengths.
 
@@ -27,5 +27,5 @@ This project demonstrates asynchronous data fetching, data visualization using T
     cd datg611_js_ass1
     ```
 2.  Open the `index.html` file in your browser.
-3.  Click the **"Plot"** button.
+3.  Click the **" Fetch and Plot"** button.
 4.  The TensorFlow.js Vis sidebar will open and display the generated charts.
