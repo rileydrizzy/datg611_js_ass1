@@ -1,3 +1,9 @@
+/**
+ * @file app.js
+ * @description This file contains the main application logic for the web interface.
+ * It handles the fetching of user data from a remote API and renders visualizations
+ * using the TensorFlow.js Visor library.
+ */
 document.addEventListener('DOMContentLoaded', () => {
     const plotButton = document.getElementById('plotButton');
 
